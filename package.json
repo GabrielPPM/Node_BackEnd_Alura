@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/GabrielPPM/Node_BackEnd_Alura/issues"
   },
-  "homepage": "https://github.com/GabrielPPM/Node_BackEnd_Alura#readme"
+  "homepage": "https://github.com/GabrielPPM/Node_BackEnd_Alura#readme",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^13.1.0"
+  }
 }
